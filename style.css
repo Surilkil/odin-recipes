@@ -1,18 +1,5 @@
 
-img{
-    width: 200px;
-    height: auto;
-}
-
-figure{
-    text-align: center;
-}
-
-.oups{
-    display:flex;
-}
-
-.cote{
-    flex: 20%;
-    padding: 5px;
+.imgrecette{
+    width: auto;
+    height: 500px;
 }
